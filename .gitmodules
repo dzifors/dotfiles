@@ -4,3 +4,6 @@
 [submodule ".config/tmux"]
 	path = .config/tmux
 	url = https://github.com/grafika-dzifors/tmux-config
+[submodule ".config/kitty"]
+	path = .config/kitty
+	url = https://github.com/grafika-dzifors/kitty-config

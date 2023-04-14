@@ -7,3 +7,6 @@
 [submodule ".config/kitty"]
 	path = .config/kitty
 	url = https://github.com/grafika-dzifors/kitty-config
+[submodule ".config/wofi"]
+	path = .config/wofi
+	url = git@github.com:grafika-dzifors/wofi-config

@@ -1,12 +1,12 @@
 [submodule ".config/nvim"]
 	path = .config/nvim
-	url = https://github.com/grafika-dzifors/nvim-config
+	url = git@github.com:grafika-dzifors/nvim-config
 [submodule ".config/tmux"]
 	path = .config/tmux
-	url = https://github.com/grafika-dzifors/tmux-config
+	url = git@github.com:grafika-dzifors/tmux-config
 [submodule ".config/kitty"]
 	path = .config/kitty
-	url = https://github.com/grafika-dzifors/kitty-config
+	url = git@github.com:grafika-dzifors/kitty-config
 [submodule ".config/wofi"]
 	path = .config/wofi
 	url = git@github.com:grafika-dzifors/wofi-config

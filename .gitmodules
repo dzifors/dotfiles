@@ -10,3 +10,6 @@
 [submodule ".config/wofi"]
 	path = .config/wofi
 	url = git@github.com:grafika-dzifors/wofi-config
+[submodule ".config/hypr"]
+	path = .config/hypr
+	url = git@github.com:grafika-dzifors/hyprland-config
